@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OBERT-ELIJAH
 - 👀 I’m interested in Software Development and Web Programming
 - 🌱 Currently learning C and C++
-- 💞️ Also looking fowared to collaborate on project achievement and problem solving
+- 💞️ Also looking foward to collaborate on project achievement and problem solving
 - 📫 How to reach me;
 -    email: muyayaelijah1@gmail.com
 -    phone: +260 950 828281
