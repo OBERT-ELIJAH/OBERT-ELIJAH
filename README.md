@@ -1,5 +1,5 @@
 struct Obert
-{ //About Me
+{ // About Me
   string intro = "Hello I'm Obert, a Software Developer.";
   string langs[] = { "C", "C++", "HTML", "CSS", "JS", "VERILOG" };
   string learning = { "SQL", "JAVA", "PY", "PHP" };
